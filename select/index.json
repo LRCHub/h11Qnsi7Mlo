@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Over the Starlight",
+  "base_artist": "中野梓(CV:竹達彩奈)",
+  "createdAt": "2026-02-18T21:56:28.764655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "中野 梓(CV:竹達彩奈)",
+      "has_synced": false,
+      "path": "select/01_Over_the_Starlight_中野_梓(CV_竹達彩奈).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "竹達彩奈",
+      "has_synced": false,
+      "path": "select/02_Over_the_Starlight_竹達彩奈.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "Nakano Azusa (CV: Ayana Taketatsu)",
+      "has_synced": false,
+      "path": "select/03_Over_the_Starlight_Nakano_Azusa_(CV__Ayana_Taketatsu).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "中野梓(CV:竹達彩奈)",
+      "has_synced": true,
+      "path": "select/04_Over_the_Starlight_中野梓(CV_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "竹達彩奈",
+      "has_synced": true,
+      "path": "select/05_Over_the_Starlight_竹達彩奈.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "中野梓",
+      "has_synced": true,
+      "path": "select/06_Over_the_Starlight_中野梓.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Over The Starlight",
+      "artist": "Taketatsu Ayana",
+      "has_synced": false,
+      "path": "select/07_Over_The_Starlight_Taketatsu_Ayana.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "Nakano Azusa",
+      "has_synced": false,
+      "path": "select/08_Over_the_Starlight_Nakano_Azusa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "中野梓(CV:竹達彩奈)",
+      "has_synced": false,
+      "path": "select/09_Over_the_Starlight_中野梓(CV_竹達彩奈).txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "Nakano, Azusa(CV:Taketatsu, Ayana)",
+      "has_synced": false,
+      "path": "select/10_Over_the_Starlight_Nakano,_Azusa(CV_Taketatsu,_Ayana).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "Nakano Azusa (CV: Taketatsu Ayana)",
+      "has_synced": false,
+      "path": "select/11_Over_the_Starlight_Nakano_Azusa_(CV__Taketatsu_Ayana).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Over the Starlight",
+      "artist": "中野梓(CV:竹達彩奈)",
+      "has_synced": true,
+      "path": "select/12_Over_the_Starlight_中野梓(CV_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Over the Starlight - Full ver.",
+      "artist": "ned",
+      "has_synced": true,
+      "path": "select/13_Over_the_Starlight_-_Full_ver._ned.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Over the Starlight",
+      "artist": "中野梓(CV:竹達彩奈)",
+      "has_synced": false,
+      "path": "select/pl_01_Over_the_Starlight_中野梓(CV_竹達彩奈).txt"
+    }
+  ]
+}
